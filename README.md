@@ -72,7 +72,16 @@ Neo needs to work towards becoming **THE ONLY CHOICE** for Canadian customers. E
 
 *What if the future of banking wasn’t a bank?*
 
-
+## Resources:
+- https://www.neofinancial.com/for-business
+- https://www.neofinancial.com/about
+- https://www.avenuecalgary.com/innovation/calgary-neo-financial-banking/
+- https://aws.amazon.com/solutions/case-studies/neo-case-study/
+-https://milesopedia.com/en/reviews/products/neo-financial-case-study/
+- https://betakit.com/neo-financial-joins-canadas-unicorns-as-peter-thiels-valar-triples-down-with-185-million-round/
+- https://www.newswire.ca/news-releases/canadians-forecast-a-long-rocky-economic-road-ahead-according-to-manulife-bank-s-debt-survey-838391752.html
+- https://www.retailbankerinternational.com/analysis/neo-financial-reimagines-canadian-banking-experience/
+- https://hardbacon.ca/en/investing/canadas-top-50-fintech-companies-and-startups-for-2021/
 
 
 
