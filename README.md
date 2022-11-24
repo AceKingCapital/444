@@ -41,17 +41,21 @@ Neo Financial is a company targetting mutliple domains of the financial industry
 
 Neo's USP is providing the Canadian customers with a better financial product, offering a higher APY interest than all the maor 5 banks who control the lion's share of the market currently. The super fast growth of the company, transitioning it into a Unicorn, is only confirmation of the fact that Canadians need a modern banking solution company like Neo. Neo's main competitors are Canada's top 5 Banks:
 
-1. National Bank of Canada 
-2. Royal Bank of Canada (RBC)
-3. Bank of Montreal (BMO)
-4. Bank of Nova Scotia (BNS/ Scotiabank)
-5. Toronto Dominion Bank (TD)
+
+1. Royal Bank of Canada (RBC)
+2. Bank of Montreal (BMO)
+3. Bank of Nova Scotia (BNS/ Scotiabank)
+4. Toronto Dominion Bank (TD)
+5. Canadian Imperial Bank of Commerce (CIBC) 
 
 # Results
 
 I believe that Neo is on the right track, seeing the growth spurt of the company. Neo is on the path of providing Canadian condumers with a better financial tool to help manage their perosnal finances by giving them a higher interest rates on their chequings and savings accounts and providing them with an app to help track their daily spending habits and improve. Neo has been able to acquire a customer base of over 1 million users and 7000 businesses over the short time period of only 3 years since its incorpration in 2019 which I feel is quite commendable. 
 
-Why believe me? Read the customer reviews below!
+Dont believe me! Read the customer reviews below:
 
 ![Alt text](Customers.JPG)
 
+Neo, with a valuation of $1 Billion, still has a long way to go in comparison to its competitors who have been in the market for a very long time! Neo Financial was incorporated in 2019 whereas its competitors were established in the 1800's. BMO (Founded in 1817) is Canada's oldest bank, followed by Scotiabank (established in 1832), TD (establsihed in 1855), CIBC (established in 1867), and lastly RBC (establsihed in 1869). Even though RBC was the last to establish its roots in the Canadian Market, it controls the largest market share and has the highest Market Cap.
+
+![Alt text](marketcap.JPG)
