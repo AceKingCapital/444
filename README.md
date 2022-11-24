@@ -59,3 +59,11 @@ Dont believe me! Read the customer reviews below:
 Neo, with a valuation of $1 Billion, still has a long way to go in comparison to its competitors who have been in the market for a very long time! Neo Financial was incorporated in 2019 whereas its competitors were established in the 1800's. BMO (Founded in 1817) is Canada's oldest bank, followed by Scotiabank (established in 1832), TD (establsihed in 1855), CIBC (established in 1867), and lastly RBC (establsihed in 1869). Even though RBC was the last to establish its roots in the Canadian Market, it controls the largest market share and has the highest Market Cap.
 
 ![Alt text](marketcap.JPG)
+
+The growth of the company has been very fast and I have high hopes that Neo will outperform its competitors in the long run just on the basis of the fact that they provide a better financial tool than any of its competitors in the market. I believe that there is no valid reason for a rational and informed Canadian consumer to not take advantage of the perks being offered by Neo Financial. 
+
+# Recommendations
+
+The only major recommendation I have for Neo is to partner up with a service/institution that allows them to facilitate ATM access for its customers. Customers are unable to deposit and withdraw cash using their Neo cards and accounts at the moment which equates to them needing 2 seperate financial institutions in order to be able to manage their finances. 
+
+Neo needs to work towards becoming THE CHOICE for Canadian customers by h
