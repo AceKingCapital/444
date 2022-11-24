@@ -28,6 +28,8 @@ With Neo Financial, the team has successfully launched a rewards-driven minimal 
 Neo Financial is challenging Canada’s big five banks by reimagining the customer experience of banking. Trusted by 1 million customers already in a short span of 3 years since incorporation, Neo's target customer is everyone who uses their smartphone for everyday banking purposes. 
 It is imperative to understand that Neo is not a bank. It has partnered with Saskatoon-based Concentra Bank to offer savings accounts, and with ATB Financial, owned by the Alberta provincial government, for credit card issuance.
 
+![Alt text](million.JPG)
+
 The top 5 banks in Canada control 93% of the market share but none of them offer the perks that Neo offers to its customers. They truly believe in providing Canadians with the best possible solutions so that they can help empower them financially. Neo offers a hybrid savings and chequing account that it hopes customers will treat as their primary account.The account pays 1.30% interest, which is 130 times higher than the rate paid by the big five banks. Not only that, the company also offers Canada's highest interest savings account with no annual fees, no minimum balance requirements, and 2.25% interest rate. 
 
 The digital-only Neo Savings account offers many features of a current account, including unlimited free transactions and no monthly fees or minimum balance requirements. Offering a debit card with ATM access was not a priority for Neo in their initial phase because most Canadians use Credit cards for spending and pay it off using their bank accounts. 
