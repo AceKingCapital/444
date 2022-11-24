@@ -47,3 +47,11 @@ Neo's USP is providing the Canadian customers with a better financial product, o
 4. Bank of Nova Scotia (BNS/ Scotiabank)
 5. Toronto Dominion Bank (TD)
 
+# Results
+
+I believe that Neo is on the right track, seeing the growth spurt of the company. Neo is on the path of providing Canadian condumers with a better financial tool to help manage their perosnal finances by giving them a higher interest rates on their chequings and savings accounts and providing them with an app to help track their daily spending habits and improve. Neo has been able to acquire a customer base of over 1 million users and 7000 businesses over the short time period of only 3 years since its incorpration in 2019 which I feel is quite commendable. 
+
+Why believe me? Read the customer reviews below!
+
+![Alt text](Customers.JPG)
+
