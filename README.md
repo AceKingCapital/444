@@ -66,4 +66,4 @@ The growth of the company has been very fast and I have high hopes that Neo will
 
 The only major recommendation I have for Neo is to partner up with a service/institution that allows them to facilitate ATM access for its customers. Customers are unable to deposit and withdraw cash using their Neo cards and accounts at the moment which equates to them needing 2 seperate financial institutions in order to be able to manage their finances. 
 
-Neo needs to work towards becoming THE CHOICE for Canadian customers by h
+Neo needs to work towards becoming **THE ONLY CHOICE** for Canadian customers. Enabling cash deposit and withdrawal features for clients by facilitating ATM access for its clients will elimiate the need for the customers to have accounts with 2 seprate financial institutions. This will most definitely help Neo acquire a larger market share. 
