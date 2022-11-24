@@ -30,7 +30,7 @@ It is imperative to understand that Neo is not a bank. It has partnered with Sas
 
 ![Alt text](million.JPG)
 
-The top 5 banks in Canada control 93% of the market share but none of them offer the perks that Neo offers to its customers. They truly believe in providing Canadians with the best possible solutions so that they can help empower them financially. Neo offers a hybrid savings and chequing account that it hopes customers will treat as their primary account.The account pays 1.30% interest, which is 130 times higher than the rate paid by the big five banks. Not only that, the company also offers Canada's highest interest savings account with no annual fees, no minimum balance requirements, and 2.25% interest rate. 
+The top 5 banks in Canada control 93% of the market share but none of them offer the perks that Neo offers to its customers. They truly believe in providing Canadians with the best possible solutions so that they can help empower them financially. Neo offers a hybrid savings and chequing account that it hopes customers will treat as their primary account.The account pays 1.30% interest, which is 130 times higher than the rate paid by the big five banks. Not only that, the company also offers Canada's highest interest savings account with no annual fees, no minimum balance requirements, and 2.25% interest rate. Neo provides a 4% cashback on its credit card in comparison to the 2% provided by the big 5 banks.Additionally, there is no over-limit fee and no inactive fee.
 
 The digital-only Neo Savings account offers many features of a current account, including unlimited free transactions and no monthly fees or minimum balance requirements. Offering a debit card with ATM access was not a priority for Neo in their initial phase because most Canadians use Credit cards for spending and pay it off using their bank accounts. 
 Neo plans on offering loans, mortgages, and investment products to its customers in the near future. They also plan on introducing mobile cheque deposits shortly along with offering a debit card with ATM access.
@@ -50,6 +50,8 @@ Neo's USP is providing the Canadian customers with a better financial product, o
 
 # Results
 
+I feel that traditional banks have done little innovation in technology, have outdated systems, and that they fail to offer the products and customization that Canadians want. Neo has incorporated Amazon Web Services (AWS) solutions into every facet of the company—including security, data storage, and analytics—to create a highly secure, scalable, and agile architecture that meets the rigorous demands of its customers, partners, and regulators.
+
 I believe that Neo is on the right track, seeing the growth spurt of the company. Neo is on the path of providing Canadian condumers with a better financial tool to help manage their perosnal finances by giving them a higher interest rates on their chequings and savings accounts and providing them with an app to help track their daily spending habits and improve. Neo has been able to acquire a customer base of over 1 million users and 7000 businesses over the short time period of only 3 years since its incorpration in 2019 which I feel is quite commendable. 
 
 Dont believe me! Read the customer reviews below:
@@ -64,6 +66,13 @@ The growth of the company has been very fast and I have high hopes that Neo will
 
 # Recommendations
 
-The only major recommendation I have for Neo is to partner up with a service/institution that allows them to facilitate ATM access for its customers. Customers are unable to deposit and withdraw cash using their Neo cards and accounts at the moment which equates to them needing 2 seperate financial institutions in order to be able to manage their finances. 
+The major recommendation I have for Neo is to partner up with a service/institution that allows them to facilitate ATM access for its customers. Customers are unable to deposit and withdraw cash using their Neo cards and accounts at the moment which equates to them needing 2 seperate financial institutions in order to be able to manage their personal finances.
 
-Neo needs to work towards becoming **THE ONLY CHOICE** for Canadian customers. Enabling cash deposit and withdrawal features for clients by facilitating ATM access for its clients will elimiate the need for the customers to have accounts with 2 seprate financial institutions. This will most definitely help Neo acquire a larger market share. 
+Neo needs to work towards becoming **THE ONLY CHOICE** for Canadian customers. Enabling cash deposit and withdrawal features for clients by facilitating ATM access for its clients will eliminate the need for the customers to have accounts with 2 seperate financial institutions. This will most definitely help Neo acquire a larger market share and also grow as a brand. 
+
+*What if the future of banking wasn’t a bank?*
+
+
+
+
+
