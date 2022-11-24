@@ -35,5 +35,15 @@ The top 5 banks in Canada control 93% of the market share but none of them offer
 The digital-only Neo Savings account offers many features of a current account, including unlimited free transactions and no monthly fees or minimum balance requirements. Offering a debit card with ATM access was not a priority for Neo in their initial phase because most Canadians use Credit cards for spending and pay it off using their bank accounts. 
 Neo plans on offering loans, mortgages, and investment products to its customers in the near future. They also plan on introducing mobile cheque deposits shortly along with offering a debit card with ATM access.
 
+# Landscape
 
+Neo Financial is a company targetting mutliple domains of the financial industry. They provide solutions in the domains of Payments and Billing, Wealth Management, and Personal Finance currently and are planning on venturing into the Lending and Robo Advising domains as well. The tagline of the company, "***What if the future of banking wasn’t a bank?***" gives us an insight as to how the founders want to deliver a new baking solution to Canadian customers who have not experienced anything new in the market in the past 24 years, when ING Bank of Canada stepped into the market (acquired by Scotiabank in 2012, now known as "***Tangerine***")
+
+Neo's USP is providing the Canadian customers with a better financial product, offering a higher APY interest than all the maor 5 banks who control the lion's share of the market currently. The super fast growth of the company, transitioning it into a Unicorn, is only confirmation of the fact that Canadians need a modern banking solution company like Neo. Neo's main competitors are Canada's top 5 Banks:
+
+1. National Bank of Canada 
+2. Royal Bank of Canada (RBC)
+3. Bank of Montreal (BMO)
+4. Bank of Nova Scotia (BNS/ Scotiabank)
+5. Toronto Dominion Bank (TD)
 
